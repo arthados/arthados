@@ -26,9 +26,6 @@ I'm a passionate **Software Developer** and Computer Science graduate focused on
 - FastAPI · ClickHouse · Machine Learning & Deep Learning
 - Advanced React & Next.js patterns · Distributed systems
 
-### 💬 Ask Me About
-`React / Next.js` `Node.js APIs` `C++` `Selenium Automation` `Web Scraping` `MySQL & ClickHouse` `Authentication Systems`
-
 ---
 
 ## 🌐 Socials
@@ -64,8 +61,6 @@ I'm a passionate **Software Developer** and Computer Science graduate focused on
 ---
 
 ## 📊 GitHub Stats
-
-> **⚠️ To show private repo contributions:** Fork [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats), add a `PAT_1` secret (GitHub token with `repo` scope), deploy to Vercel, and replace `YOUR_STATS_DOMAIN` below with your instance URL. The `count_private=true` param only works on a self-hosted instance with your own PAT.
 
 <p align="center">
   <img src="https://YOUR_STATS_DOMAIN/api?username=arthados&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" alt="GitHub Stats" height="180" />
