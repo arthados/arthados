@@ -83,58 +83,6 @@ I'm a passionate **Software Developer** and Computer Science graduate focused on
 
 ---
 
-## 🐍 Contribution Snake
-
-> To enable this, go to your GitHub repo → **Actions** → enable the workflow below, then add it as a GitHub Action.
-
-```yaml
-# .github/workflows/snake.yml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_token: ${{ secrets.GITHUB_TOKEN }}
-          outputs: |
-            dist/github-snake.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/arthados/arthados/output/github-snake.svg" alt="Snake animation" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arthados&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
-</p>
-
----
-
-## 🔝 Top Contributed Repos
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=arthados&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arthados&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
