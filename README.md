@@ -63,34 +63,6 @@ I'm a passionate **Software Developer** and Computer Science graduate focused on
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arthados&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthados&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=arthados&theme=gruvbox&hide_border=true&count_private=true" alt="GitHub Streak" />
-</p>
-
-<!-- Activity Graph — shows private repo activity if logged in -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arthados&theme=gruvbox&hide_border=true&area=true" alt="Activity Graph" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/arthados/arthados/output/github-snake.svg" alt="Snake animation" />
-</p>
-
----
-
-
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arthados&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
